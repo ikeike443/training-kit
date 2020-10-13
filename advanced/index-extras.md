@@ -345,8 +345,9 @@ A sample `.gitconfig` file:
 
 
 {% capture slide %}
-### Refspecs
 {% endcapture %}
+### Refspecs
+
 {% include slide-section %}
 
 ##### Git Refspec Documentation
